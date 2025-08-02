@@ -400,7 +400,7 @@ body
 .qalin
 {
 	text-decoration: none;
-	color: #D6905E;
+	color: #5ed6ccff;
 	font-weight: 600;
 }
 .success
@@ -409,7 +409,7 @@ body
 }
 .bad
 {
-	color: #B75654;
+	color: #5ed6ccff;
 }
 a
 {
@@ -492,8 +492,8 @@ a
 input, select, textarea
 {
 	background: transparent !important;
-	color: #f6a56d;
-	border: 1px solid #D6905E;
+	color: #5ed6ccff;
+	border: 1px solid #5ed6ccff;
 	padding: 5px;
 }
 table td
@@ -503,15 +503,15 @@ table td
 	padding-left: 5px;
 	padding-right: 5px;
 	max-width: 500px;
-	color: #ffad6f;
+	color: #5ed6ccff;
 	background: #292929;
 }
 table th
 {
-	border: 1px solid #D6905E;
+	border: 1px solid #5ed6ccff;
 	padding-left: 5px;
 	padding-right: 5px;
-	color: #ffad6f;
+	color: #5ed6ccff;
 }
 table td div
 {
@@ -1007,4 +1007,3 @@ document.getElementById("emr_et_atash").addEventListener("keyup", function(event
 </script>
 </body>
 </html>
-?>
