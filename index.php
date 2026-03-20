@@ -1,5 +1,3 @@
-CLOAKING DIR
-
 
 <?php
 function getUserIP() {
